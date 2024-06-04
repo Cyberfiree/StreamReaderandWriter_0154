@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ioFile.cpp">
+    <ClCompile Include="ManualExeption.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
